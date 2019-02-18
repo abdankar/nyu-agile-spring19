@@ -1,4 +1,4 @@
-# AI VS HUMANS
+# **AI VS HUMANS**
 
 
 
@@ -10,5 +10,13 @@ It has the potential to change many industries
 * tech
 * etc.
 
-I'm also curious as to how this technology could potentially be ha  
+I'm also curious as to how this technology could potentially be hazardous to humans, and what kinds of regulations society will come up with to curtail the beast. 
+
+:sparkles: :sparkles: :sparkles: :sparkles: :sparkles:
+
+**Privacy** is a huge issue, with all the data out there companies will be incentivized to monetize it. 
+
+**Sentience** could be an issue too, what happens if the machines take over?
+
+Despite the issues, we are in for an interesting time ahead of us.  
 
