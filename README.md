@@ -20,3 +20,8 @@ I'm also curious as to how this technology could potentially be hazardous to hum
 
 Despite the issues, we are in for an interesting time ahead of us.  
 
+WOW THIS IS AMAZING. This Changes Everything!!!!!
+
+-Brian Shih
+
+![alt text](./rick.gif)
